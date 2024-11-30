@@ -5,7 +5,8 @@ export default function Me(data: { translation: Translation["me"] }) {
   return (
     <div class="flex md:flex-col justify-between gap-10 md:gap-y-3 items-center md:items-start">
       <div class="md:order-2">
-        <h1>Manu Mxrales</h1>
+        <h1>Francisco Manuel</h1>
+        <h1>Sanchez</h1>
         <h2 class="my-1">Web Engineer</h2>
         <p class="whitespace-pre-wrap">{data?.translation?.text}</p>
       </div>
