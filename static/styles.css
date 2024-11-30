@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "IBMPlexSans";
+  src: local("../static/fonts/IBMPlexSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@layer base {
+  html {
+    @apply text-html bg-slate-50;
+  }
+  body {
+    @apply text-sm text-black font-plex leading-none tracking-wide;
+  }
+  h1 {
+    @apply text-xl text-black leading-none font-bold sm:text-lg;
+  }
+  h2 {
+    @apply text-lg font-bold text-black sm:text-md;
+  }
+  h3 {
+    @apply text-right uppercase text-md font-bold text-black lg:mt-6 lg:mb-2 md:mt-4 lg:text-left;
+  }
+  h4 {
+    @apply text-blue-900 font-bold text-md  mb-1 lg:mb-1 md:mb-0.8;
+  }
+  h5 {
+    @apply text-gray-light leading-snug;
+  }
+  ul {
+    @apply list-disc list-inside;
+  }
+  li {
+    @apply text-gray-light leading-normal;
+  }
+  a {
+    @apply text-gray-light leading-normal;
+  }
+  p {
+    @apply text-gray-light leading-snug;
+  }
+  label {
+    @apply text-gray-light leading-snug;
+  }
+}

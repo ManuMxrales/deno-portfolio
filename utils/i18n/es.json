@@ -1,0 +1,96 @@
+
+{
+	"me": {
+		"text": "Hola Mundo!  Naci el 28 de enero de 1998 en CDMX, quiero usar el desarrollo web para contribuir a la vida de las personas\nVivo en 🇲🇽 y actualmente trabajo como desarrollador de Software"
+	},
+	"education": {
+		"title": "Educación",
+		"milestones": [
+			{
+                "title": "Tecnico en Programación",
+                "text": "Instituto Politécnico Nacional | CECyT 9"
+            },
+            {
+                "title": "Desarrollador Web Full Stack",
+                "date": "February 2022 - July 2022",
+                "text": "HENRY | Web Development Bootcamp"
+            }
+		]
+	},
+	"experience": {
+		"title": "Experiencia",
+		"jobs": [
+			{
+				"name": "BBVA",
+				"date": "April 2024 - Presente, CDMX",
+				"stations": [
+					{
+						"role": "Web Engineer",
+						"tasks": [
+							"Encabezando el desarrollo de componentes web globales utilizando Lit JS para aplicaciones móviles, impulsando la reutilización y asegurando la adherencia a los estándares web de la industria",
+							"Colaborando en la integración de APIs REST y WebSockets a través de Componentes Web"
+						]
+					}
+				]
+			},
+			{
+				"name": "SNGULAR",
+				"date": "Junio 2022 - Abril 2024, CDMX",
+				"stations": [
+					{
+						"role": "Frontend Web Developer",
+						"tasks": [
+							"Creación y mantenimiento de aplicaciones web y sus componentes.",
+							"Análisis de las implicaciones tecnológicas dentro del proceso de desarrollo SCRUM.",
+							"Experiencia colaborando con equipos distribuidos globalmente a través de diferentes zonas horarias"
+						]
+					}
+				]
+			}
+		]
+	},
+	"skills": {
+		"title": "Skills",
+		"sections": [
+			{
+				"title": "Programming languages",
+				"skills": [
+					"TypeScript",
+					"JavaScript"
+				]
+			},
+			{
+				"title": "Libraries and Frameworks",
+				"skills": [
+					"LIT",
+					"React",
+					"Solid",
+					"Fresh",
+					"Node",
+					"Deno",
+					"Tailwind CSS"
+				]
+			},
+			{
+				"title": "Further knowledge",
+				"skills": [
+					"Git",
+					"HTML",
+					"SCSS",
+					"English"
+				]
+			}
+		]
+	},
+	"projects": {
+		"title": "Projects"
+	},
+	"contact": {
+		"title": "Contact",
+		"mail": "E-Mail",
+		"message": "Message",
+		"send": "Send",
+		"sent": "Thanks for the message!",
+		"failed": "Something went wrong :("
+	}
+}
