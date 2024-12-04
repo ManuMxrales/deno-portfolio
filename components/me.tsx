@@ -1,7 +1,6 @@
 import type { Translation } from "../utils/types.ts";
 
 export default function Me(data: { translation: Translation["me"] }) {
-    
   return (
     <div class="flex md:flex-col justify-between gap-10 md:gap-y-3 items-center md:items-start">
       <div class="md:order-2">

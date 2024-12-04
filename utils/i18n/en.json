@@ -1,95 +1,95 @@
 {
-    "me": {
-        "text": "Hello World! I was born on January 28, 1998 in CDMX, I want to use web development to contribute to people's lives\nI live in 🇲🇽 and currently work as a Software Developer"
-    },
-    "education": {
-        "title": "Education",
-        "milestones": [
-            {
-                "title": "Programming Technician",
-                "text": "Instituto Politécnico Nacional | CECyT 9"
-            },
-            {
-                "title": "Full Stack Web Developer",
-                "date": "February 2022 - July 2022",
-                "text": "HENRY | Web Development Bootcamp"
-            }
+  "me": {
+    "text": "Hello World! I was born on January 28, 1998 in CDMX, I want to use web development to contribute to people's lives\nI live in 🇲🇽 and currently work as a Software Developer"
+  },
+  "education": {
+    "title": "Education",
+    "milestones": [
+      {
+        "title": "Programming Technician",
+        "text": "Instituto Politécnico Nacional | CECyT 9"
+      },
+      {
+        "title": "Full Stack Web Developer",
+        "date": "February 2022 - July 2022",
+        "text": "HENRY | Web Development Bootcamp"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "jobs": [
+      {
+        "name": "BBVA",
+        "date": "April 2024 - Present, CDMX",
+        "stations": [
+          {
+            "role": "Web Engineer",
+            "tasks": [
+              "Leading the development of global web components using Lit JS for mobile applications, driving reuse and ensuring adherence to industry web standards",
+              "Collaborating on the integration of REST APIs and WebSockets through Web Components"
+            ]
+          }
         ]
-    },
-    "experience": {
-        "title": "Experience",
-        "jobs": [
-            {
-                "name": "BBVA",
-                "date": "April 2024 - Present, CDMX",
-                "stations": [
-                    {
-                        "role": "Web Engineer",
-                        "tasks": [
-                            "Leading the development of global web components using Lit JS for mobile applications, driving reuse and ensuring adherence to industry web standards",
-                            "Collaborating on the integration of REST APIs and WebSockets through Web Components"
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "SNGULAR",
-                "date": "June 2022 - April 2024, CDMX",
-                "stations": [
-                    {
-                        "role": "Frontend Web Developer",
-                        "tasks": [
-                            "Creating and maintaining web applications and their components.",
-                            "Analyzing the technological implications within the SCRUM development process.",
-                            "Experience collaborating with globally distributed teams across different time zones"
-                        ]
-                    }
-                ]
-            }
+      },
+      {
+        "name": "SNGULAR",
+        "date": "June 2022 - April 2024, CDMX",
+        "stations": [
+          {
+            "role": "Frontend Web Developer",
+            "tasks": [
+              "Creating and maintaining web applications and their components.",
+              "Analyzing the technological implications within the SCRUM development process.",
+              "Experience collaborating with globally distributed teams across different time zones"
+            ]
+          }
         ]
-    },
-    "skills": {
-        "title": "Skills",
-        "sections": [
-            {
-                "title": "Programming languages",
-                "skills": [
-                    "TypeScript",
-                    "JavaScript"
-                ]
-            },
-            {
-                "title": "Libraries and Frameworks",
-                "skills": [
-                    "LIT",
-                    "React",
-                    "Solid",
-                    "Fresh",
-                    "Node",
-                    "Deno",
-                    "Tailwind CSS"
-                ]
-            },
-            {
-                "title": "Further knowledge",
-                "skills": [
-                    "Git",
-                    "HTML",
-                    "SCSS",
-                    "English"
-                ]
-            }
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "sections": [
+      {
+        "title": "Programming languages",
+        "skills": [
+          "TypeScript",
+          "JavaScript"
         ]
-    },
-    "projects": {
-        "title": "Projects"
-    },
-    "contact": {
-        "title": "Contact",
-        "mail": "E-Mail",
-        "message": "Message",
-        "send": "Send",
-        "sent": "Thanks for the message!",
-        "failed": "Something went wrong :("
-    }
+      },
+      {
+        "title": "Libraries and Frameworks",
+        "skills": [
+          "LIT",
+          "React",
+          "Solid",
+          "Fresh",
+          "Node",
+          "Deno",
+          "Tailwind CSS"
+        ]
+      },
+      {
+        "title": "Further knowledge",
+        "skills": [
+          "Git",
+          "HTML",
+          "SCSS",
+          "English"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects"
+  },
+  "contact": {
+    "title": "Contact",
+    "mail": "E-Mail",
+    "message": "Message",
+    "send": "Send",
+    "sent": "Thanks for the message!",
+    "failed": "Something went wrong :("
+  }
 }

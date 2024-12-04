@@ -32,5 +32,3 @@ jobs:
           project: "manumxrales-deno-portfolio"
           entrypoint: "main.ts"
           root: "."
-          
-          
