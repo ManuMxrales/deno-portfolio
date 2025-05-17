@@ -8,7 +8,7 @@ export default function Menu(data: { lang: State["lang"] }) {
       ">
       <Language lang={data.lang} />
       <a
-        class="text-gray-dark font-bold text-md cursor-pointer group hover:text-blue-600 transition-colors"
+        class="text-gray-dark font-bold text-md cursor-pointer group hover:text-blue-600 transition-colors dark:text-neutral-50"
         target="_blank"
         href="https://www.linkedin.com/in/francisco-manuel-sanchez/"
       >

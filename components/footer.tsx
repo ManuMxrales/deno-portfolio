@@ -16,7 +16,7 @@ export default function Footer() {
         &copy; 2024 ManuMxrales. All rights reserved.
       </p>
       <a
-        class="relative w-4"
+        class="relative w-4 dark:invert"
         width="16"
         height="16"
         href="https://github.com/manumxrales"
