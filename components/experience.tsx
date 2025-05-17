@@ -7,7 +7,7 @@ const Milestone = (data: Translation["experience"]["jobs"][0]) => (
         <h4>{data.name}</h4>
         {data.stations.map((station) => (
           <div class="mb-2" key={station.role}>
-            <h5>{station.role}</h5>
+            <h5 class="my-1">{station.role}</h5>
             <ul>
               {station.tasks.map((item: string) => <li key={item}>{item}</li>)}
             </ul>
