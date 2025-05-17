@@ -1,6 +1,6 @@
 {
   "me": {
-    "text": "Hola Mundo!  Naci el 28 de enero de 1998 en CDMX, quiero usar el desarrollo web para contribuir a la vida de las personas\nVivo en 🇲🇽 y actualmente trabajo como desarrollador de Software"
+    "text": "Hola Mundo! Naci el 28 de enero en CDMX, quiero usar el desarrollo web para contribuir a la vida de las personas\nVivo en 🇲🇽 y actualmente trabajo como desarrollador de Software"
   },
   "education": {
     "title": "Educación",
@@ -24,10 +24,12 @@
         "date": "April 2024 - Presente, CDMX",
         "stations": [
           {
-            "role": "Web Engineer",
+            "role": "Web Engineer & Scrum Master",
             "tasks": [
-              "Encabezando el desarrollo de componentes web globales utilizando Lit JS para aplicaciones móviles, impulsando la reutilización y asegurando la adherencia a los estándares web de la industria",
-              "Colaborando en la integración de APIs REST y WebSockets a través de Componentes Web"
+              "Facilito ceremonias ágiles (daily, sprint planning, reviews, retrospectives) con un equipo de desarrolladores",
+              "Elimino impedimentos y promuevo prácticas de mejora continua, logrando reducir bloqueos y aumentar la velocidad del sprint.",
+              "Lidero el desarrollo de componentes web globales utilizando Lit JS para aplicaciones móviles, impulsando la reutilización y asegurando la adherencia a los estándares web de la industria",
+              "Colaboro en la integración de APIs REST y WebSockets a través de Componentes Web"
             ]
           }
         ]
@@ -63,6 +65,7 @@
         "skills": [
           "LIT",
           "React",
+          "Preact",
           "Solid",
           "Fresh",
           "Node",

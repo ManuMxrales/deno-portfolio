@@ -1,6 +1,6 @@
 {
   "me": {
-    "text": "Hello World! I was born on January 28, 1998 in CDMX, I want to use web development to contribute to people's lives\nI live in 🇲🇽 and currently work as a Software Developer"
+    "text": "Hello World! I was born on January 28 in CDMX, I want to use web development to contribute to people's lives\nI live in 🇲🇽 and currently work as a Software Developer"
   },
   "education": {
     "title": "Education",
@@ -26,6 +26,15 @@
           {
             "role": "Web Engineer",
             "tasks": [
+              "Leading the development of global web components using Lit JS for mobile applications, driving reuse and ensuring adherence to industry web standards",
+              "Collaborating on the integration of REST APIs and WebSockets through Web Components"
+            ]
+          },
+          {
+            "role": "Web Engineer & Scrum Master",
+            "tasks": [
+              "Facilitating agile ceremonies (daily, sprint planning, reviews, retrospectives) with a team of developers",
+              "Removing impediments and promoting continuous improvement practices, reducing blockers and increasing sprint velocity.",
               "Leading the development of global web components using Lit JS for mobile applications, driving reuse and ensuring adherence to industry web standards",
               "Collaborating on the integration of REST APIs and WebSockets through Web Components"
             ]
@@ -63,6 +72,7 @@
         "skills": [
           "LIT",
           "React",
+          "Preact",
           "Solid",
           "Fresh",
           "Node",
