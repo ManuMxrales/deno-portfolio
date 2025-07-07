@@ -24,17 +24,17 @@
         "date": "April 2024 - Present, CDMX",
         "stations": [
           {
-            "role": "Web Engineer",
+            "role": "Web Engineer & Scrum Master",
             "tasks": [
+              "Facilitating agile ceremonies (daily, sprint planning, reviews, retrospectives) with a team of developers",
+              "Removing impediments and promoting continuous improvement practices, reducing blockers and increasing sprint velocity.",
               "Leading the development of global web components using Lit JS for mobile applications, driving reuse and ensuring adherence to industry web standards",
               "Collaborating on the integration of REST APIs and WebSockets through Web Components"
             ]
           },
           {
-            "role": "Web Engineer & Scrum Master",
+            "role": "Web Engineer",
             "tasks": [
-              "Facilitating agile ceremonies (daily, sprint planning, reviews, retrospectives) with a team of developers",
-              "Removing impediments and promoting continuous improvement practices, reducing blockers and increasing sprint velocity.",
               "Leading the development of global web components using Lit JS for mobile applications, driving reuse and ensuring adherence to industry web standards",
               "Collaborating on the integration of REST APIs and WebSockets through Web Components"
             ]
@@ -62,10 +62,7 @@
     "sections": [
       {
         "title": "Programming languages",
-        "skills": [
-          "TypeScript",
-          "JavaScript"
-        ]
+        "skills": ["TypeScript", "JavaScript"]
       },
       {
         "title": "Libraries and Frameworks",
@@ -82,12 +79,7 @@
       },
       {
         "title": "Further knowledge",
-        "skills": [
-          "Git",
-          "HTML",
-          "SCSS",
-          "English"
-        ]
+        "skills": ["Git", "HTML", "SCSS", "English"]
       }
     ]
   },
