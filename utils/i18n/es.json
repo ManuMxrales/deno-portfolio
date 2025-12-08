@@ -1,6 +1,11 @@
 {
   "me": {
-    "text": "Hola Mundo! Naci el 28 de enero en CDMX, quiero usar el desarrollo web para contribuir a la vida de las personas\nVivo en 🇲🇽 y actualmente trabajo como desarrollador de Software"
+    "text": "Hola Mundo! Naci el 28 de enero en CDMX, quiero usar el desarrollo web para contribuir a la vida de las personas\nVivo en 🇲🇽 y actualmente trabajo como desarrollador de Software",
+    "download_cv": "Descargar CV",
+    "summary": "Soy un desarrollador web apasionado con experiencia principalmente en Frontend, utilizando JavaScript y sus diferentes frameworks como React, Angular & LIT. También tengo conocimientos en tecnologías Backend como Node, Express, GO & SQL. Me considero un gran jugador de equipo, demostrando responsabilidad y una habilidad innata para pensar creativamente. Siempre estoy listo para asumir nuevos desafíos y aprender tecnologías que impulsen el crecimiento. Busco ser parte de un equipo dinámico y apasionado donde pueda contribuir con mi experiencia y continuar creciendo como desarrollador web.",
+    "phone": "5566303294",
+    "email": "manumxrales@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/francisco-manuel-sanchez/"
   },
   "education": {
     "title": "Educación",

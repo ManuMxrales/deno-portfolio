@@ -1,6 +1,11 @@
 {
   "me": {
-    "text": "Hello World! I was born on January 28 in CDMX, I want to use web development to contribute to people's lives\nI live in 🇲🇽 and currently work as a Software Developer"
+    "text": "Hello World! I was born on January 28 in CDMX, I want to use web development to contribute to people's lives\nI live in 🇲🇽 and currently work as a Software Developer",
+    "download_cv": "Download CV",
+    "summary": "I am a passionate web developer with experience primarily in Frontend, using JavaScript and its different frameworks such as React, Angular & LIT. I also have knowledge in Backend technologies like Node, Express, GO & SQL. I consider myself a great team player, demonstrating responsibility and an innate ability to think creatively. I'm always ready to take on new challenges and learn technologies that drive growth. I am seeking to be part of a dynamic and passionate team where I can contribute my experience and continue to grow as a web developer.",
+    "phone": "5566303294",
+    "email": "manumxrales@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/francisco-manuel-sanchez/"
   },
   "education": {
     "title": "Education",

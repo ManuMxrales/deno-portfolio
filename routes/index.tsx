@@ -15,7 +15,7 @@ export default function Home(ctx: RouteContext) {
   const translation = ctx.state.translation as State["translation"];
   return (
     <div class="grid grid-cols-desktop gap-x-5 lg:grid-cols-1 gap-y-10 lg:gap-y-0">
-      <Menu lang={lang} />
+      <Menu lang={lang} translation={translation?.me} />
       <Me translation={translation?.me} />
       <Experience translation={translation?.experience} />
       <Projects translation={translation?.projects} />
